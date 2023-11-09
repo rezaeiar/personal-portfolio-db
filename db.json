@@ -1,9 +1,93 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+    "menus": [
+        {
+            "id": 1,
+            "title": "💼 Work",
+            "route": "/work"
+        },
+        {
+            "id": 2,
+            "title": "😀 About Me",
+            "route": "/about-me"
+        },
+        {
+            "id": 3,
+            "title": "🤙 Contact Us",
+            "route": "/contact-us"
+        }
+    ],
+    "projects": [
+        {
+            "id": 1,
+            "img": "Rectangle 11 (1).png",
+            "date": "May -July 2017",
+            "title": "Grids & Alignment",
+            "tags": [
+                "Mobile",
+                "UX",
+                "Vivid"
+            ],
+            "description": "xpedita laborum suscipit sequi et nobis voluptas fuga placeat. Omnis est ratione. Repellendus recusandae a."
+        },
+        {
+            "id": 2,
+            "img": "Rectangle 11 (2).png",
+            "date": "May -July 2019",
+            "title": "Grids & Alignment",
+            "tags": [
+                "Mobile",
+                "UX",
+                "Vivid"
+            ],
+            "description": "xpedita laborum suscipit sequi et nobis voluptas fuga placeat. Omnis est ratione. Repellendus recusandae a."
+        },
+        {
+            "id": 3,
+            "img": "Rectangle 11 (3).png",
+            "date": "May -July 2017",
+            "title": "Grids & Alignment",
+            "tags": [
+                "Mobile",
+                "UX",
+                "Vivid"
+            ],
+            "description": "xpedita laborum suscipit sequi et nobis voluptas fuga placeat. Omnis est ratione. Repellendus recusandae a."
+        },
+        {
+            "id": 4,
+            "img": "Rectangle 11 (4).png",
+            "date": "May -July 2017",
+            "title": "Grids & Alignment",
+            "tags": [
+                "Mobile",
+                "UX",
+                "Vivid"
+            ],
+            "description": "xpedita laborum suscipit sequi et nobis voluptas fuga placeat. Omnis est ratione. Repellendus recusandae a."
+        },
+        {
+            "id": 5,
+            "img": "Rectangle 11 (5).png",
+            "date": "May -July 2017",
+            "title": "Grids & Alignment",
+            "tags": [
+                "Mobile",
+                "UX",
+                "Vivid"
+            ],
+            "description": "xpedita laborum suscipit sequi et nobis voluptas fuga placeat. Omnis est ratione. Repellendus recusandae a."
+        },
+        {
+            "id": 6,
+            "img": "Rectangle 11 (6).png",
+            "date": "May -July 2017",
+            "title": "Grids & Alignment",
+            "tags": [
+                "Mobile",
+                "UX",
+                "Vivid"
+            ],
+            "description": "xpedita laborum suscipit sequi et nobis voluptas fuga placeat. Omnis est ratione. Repellendus recusandae a."
+        }
+    ]
 }
