@@ -27,7 +27,8 @@
                 "UX",
                 "Vivid"
             ],
-            "description": "xpedita laborum suscipit sequi et nobis voluptas fuga placeat. Omnis est ratione. Repellendus recusandae a."
+            "description": "xpedita laborum suscipit sequi et nobis voluptas fuga placeat. Omnis est ratione. Repellendus recusandae a.",
+            "explanation": "Personal website design"
         },
         {
             "id": 2,
@@ -39,7 +40,8 @@
                 "UX",
                 "Vivid"
             ],
-            "description": "xpedita laborum suscipit sequi et nobis voluptas fuga placeat. Omnis est ratione. Repellendus recusandae a."
+            "description": "xpedita laborum suscipit sequi et nobis voluptas fuga placeat. Omnis est ratione. Repellendus recusandae a.",
+            "explanation": "Personal website design"
         },
         {
             "id": 3,
@@ -51,7 +53,8 @@
                 "UX",
                 "Vivid"
             ],
-            "description": "xpedita laborum suscipit sequi et nobis voluptas fuga placeat. Omnis est ratione. Repellendus recusandae a."
+            "description": "xpedita laborum suscipit sequi et nobis voluptas fuga placeat. Omnis est ratione. Repellendus recusandae a.",
+            "explanation": "Personal website design"
         },
         {
             "id": 4,
@@ -63,7 +66,8 @@
                 "UX",
                 "Vivid"
             ],
-            "description": "xpedita laborum suscipit sequi et nobis voluptas fuga placeat. Omnis est ratione. Repellendus recusandae a."
+            "description": "xpedita laborum suscipit sequi et nobis voluptas fuga placeat. Omnis est ratione. Repellendus recusandae a.",
+            "explanation": "Personal website design"
         },
         {
             "id": 5,
@@ -75,7 +79,8 @@
                 "UX",
                 "Vivid"
             ],
-            "description": "xpedita laborum suscipit sequi et nobis voluptas fuga placeat. Omnis est ratione. Repellendus recusandae a."
+            "description": "xpedita laborum suscipit sequi et nobis voluptas fuga placeat. Omnis est ratione. Repellendus recusandae a.",
+            "explanation": "Personal website design"
         },
         {
             "id": 6,
@@ -87,7 +92,89 @@
                 "UX",
                 "Vivid"
             ],
-            "description": "xpedita laborum suscipit sequi et nobis voluptas fuga placeat. Omnis est ratione. Repellendus recusandae a."
+            "description": "xpedita laborum suscipit sequi et nobis voluptas fuga placeat. Omnis est ratione. Repellendus recusandae a.",
+            "explanation": "Personal website design"
+        },
+        {
+            "id": 7,
+            "img": "Rectangle 11 (6).png",
+            "date": "May -July 2017",
+            "title": "Grids & Alignment",
+            "tags": [
+                "Mobile",
+                "UX",
+                "Vivid"
+            ],
+            "description": "xpedita laborum suscipit sequi et nobis voluptas fuga placeat. Omnis est ratione. Repellendus recusandae a.",
+            "explanation": "Personal website design"
+        }
+    ],
+    "statistics": [
+        {
+            "id": 1,
+            "title": "Projects",
+            "value": 98
+        },
+        {
+            "id": 2,
+            "title": "People",
+            "value": 65
+        },
+        {
+            "id": 3,
+            "title": "Years",
+            "value": 10
+        },
+        {
+            "id": 4,
+            "title": "Offices",
+            "value": 15
+        }
+    ],
+    "members": [
+        {
+            "id": 1,
+            "name": "Anna Smith",
+            "position": "Creative Director",
+            "img": "Rectangle 13 (1).png"
+        },
+        {
+            "id": 2,
+            "name": "Mykell Due",
+            "position": "Creative Director",
+            "img": "Rectangle 13 (2).png"
+        },
+        {
+            "id": 3,
+            "name": "Sebastian Kafo",
+            "position": "Creative Director",
+            "img": "Rectangle 13 (3).png"
+        },
+        {
+            "id": 4,
+            "name": "Ilar Smith",
+            "position": "Creative Director",
+            "img": "Rectangle 13 (4).png"
+        }
+    ],
+    "testimonials": [
+        {
+            "id": 1,
+            "description": "Everyone on the team is expected to meet the same high standards and produce work of the highest calibre, Everyone on the team is expected to meet the same high standards",
+            "HeaderPhoto": "Rectangle 108.png",
+            "name": "Michael B. Jordan",
+            "testimonial": "VP of Marketing, disney",
+            "company": "Layer_1.svg",
+            "profilePhoto": "Rectangle 5.png"
+        },
+        {
+            "id": 2,
+            "description": "Everyone on the team is expected to meet the same high standards and produce work of the highest calibre, Everyone on the team is expected to meet the same high standards",
+            "HeaderPhoto": "Rectangle 108.png",
+            "name": "Michael B. Jordan",
+            "testimonial": "VP of Marketing, Google",
+            "company": "google.png",
+            "profilePhoto": "Rectangle 5.png"
         }
     ]
 }
